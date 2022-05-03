@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="API_key">02a161cd7896437e8e0450936f7269b7</string>
+    <string name="URL_news">https://newsapi.org/v2/sources</string>
+    <string name="URL_source">https://newsapi.org/v2/top-headlines</string>
+    <string name="app_title">News Gateway</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
